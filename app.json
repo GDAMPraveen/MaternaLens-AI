@@ -1,0 +1,13 @@
+{
+  "name": "MaternaLens AI",
+  "description": "AI-powered maternal health analytics platform for tracking progress toward SDG 3.1",
+  "repository": "https://github.com/GDAMPraveen/MaternaLens-AI",
+  "keywords": [
+    "maternal-health",
+    "sdg-3-1",
+    "data-analysis",
+    "streamlit",
+    "ibm-watsonx-ai",
+    "artificial-intelligence"
+  ]
+}
