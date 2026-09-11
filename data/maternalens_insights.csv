@@ -1,0 +1,10 @@
+Category,Metric,Value,Unit,Interpretation
+MMR Trend,Initial MMR,130.0,"per 100,000 live births",Initial recorded MMR was 130.
+MMR Trend,Latest MMR,113.0,"per 100,000 live births",Latest recorded MMR was 113.
+Progress,MMR Reduction,17.0,"per 100,000 live births",MMR decreased by 17 from the earliest to latest observation.
+Progress,MMR Reduction Percentage,13.076923076923078,%,MMR declined by 13.08% over the observed period.
+SDG Target,Distance From Target,43.0,"per 100,000 live births",Latest MMR is 43 above the SDG 3.1 target of less than 70.
+SDG Target,Additional Reduction Required,38.05309734513274,%,A further reduction of approximately 38.05% from the latest value would be needed to reach 70.
+Healthcare Coverage,Skilled Birth Attendance,84.4,%,Skilled birth attendance coverage was 84.4%.
+Healthcare Coverage,Antenatal Care 4+ Visits,51.2,%,Antenatal care coverage for four or more visits was 51.2%.
+Healthcare Gap,Attendance vs Antenatal Gap,33.2,percentage points,The skilled attendance measure exceeds antenatal care coverage by 33.2 percentage points.
